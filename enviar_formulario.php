@@ -1,7 +1,7 @@
 <?php
 
 //mail que va dirigido
-$enviaPara = 'tomyagustinf@gmail.com';
+$enviaPara = 'tomas.friz@davinci.edu.ar';
 
 //asunto del mail.
 $subject = 'Contacto desde la web';
